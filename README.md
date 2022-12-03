@@ -1,3 +1,4 @@
 # Background-video
 Background video using javascript
-to test background videos for your website
+ -background video for idea and interactive website
+ no reqirements
